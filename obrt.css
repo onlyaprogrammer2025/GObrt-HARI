@@ -287,6 +287,7 @@ a{
 
 /* Media queries for responsiveness */
 @media (max-width: 768px) {
+
     #thetop {
         height: 60px;
         padding: 0 10px;
@@ -368,7 +369,7 @@ a{
  
 
     #downheader {
-        margin-top: 540px;
+        margin-top: 480px;
         position: fixed;
     }
     #hari {
